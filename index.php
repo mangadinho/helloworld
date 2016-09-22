@@ -1,1 +1,1 @@
-Example
+Hello world
